@@ -1,2 +1,2 @@
 library(shiny)    
-runGitHub("coldolmen/preterm", "coldolmen") 
+runGitHub("coldolmen/preterm", "rstudio") 
