@@ -1,0 +1,342 @@
+mes;fecha;codigo;equipo;tgcs;clase;edadmadre;semanas;duracion;paridad;parto;cesarea;pesorn;episiotomia;induccion;motivoinduccion;gemelaridad;indicacion;complicaciones;pesomadre;talla;aumento;diabetes;inicioparto;presentacion;TRA;PCS;pharterial;phvenoso
+Enero;02/01/2017;MAVP;Asociado;1;;37;39;264;Primípara;Cesárea;cesarea;3490;;N;;No;SPBF;;71;176;11;N;Espontáneo;Cefálica;No;N;7,3;7,23
+Enero;22/01/2017;KNAK;Asociado;3;;32;39;225;Quintípara;Eutócico;vaginal;3990;No;N;;No;Abreviación del expulsivo;;83;150;12;N;Espontáneo;Cefálica;No;N;;7,45
+Enero;27/01/2017;STWB;Asociado;5;c;34;39;238;Secundípara;Cesárea;cesarea;3420;;;;No;;;73,3;152;14;S;;Cefálica;;S;7,24;7,31
+Enero;10/01/2017;AFXV;Staff;2;a;32;39;224;Primípara;Eutócico;vaginal;3740;;S;;No;;;86;163;10;N;Inducido;Cefálica;No;N;;
+Enero;26/01/2017;IZFO;Staff;1;;30;39;213;Primípara;Eutócico;vaginal;3050;Media;N;;No;;;66,5;166;13;N;Espontáneo;Cefálica;No;N;7,24;7,28
+Enero;05/01/2017;CEJB;Asociado;3;;37;40;259;Secundípara;Eutócico;vaginal;3100;;N;;No;;;70;160;60;N;Espontáneo;Cefálica;No;N;7,38;7,41
+Enero;10/01/2017;FCVD;Staff;3;;32;39;228;Secundípara;Eutócico;vaginal;3660;No;N;;No;;;75;169;15;N;Espontáneo;Cefálica;No;N;7,46;7,42
+Enero;24/01/2017;MORT;Staff;3;;32;39;229;Secundípara;Eutócico;vaginal;3270;No;N;;No;;;58;160;16;N;Espontáneo;Cefálica;No;N;;7,39
+Enero;03/01/2017;FCVD;Staff;2;a;35;41;250;Primípara;Eutócico;vaginal;3940;Mediolateral Derecha;S;Gestación Prolongada;No;;;77;165;17;N;Inducido;Cefálica;No;N;7,26;
+Enero;21/01/2017;TSVW;Asociado;3;;30;40;211;Secundípara;Eutócico;vaginal;3660;No;N;;No;;;80;164;3;N;Espontáneo;Cefálica;No;N;;
+Enero;11/01/2017;CEJB;Asociado;4;a;32;40;226;Secundípara;Eutócico;vaginal;3520;;S;Otros;No;;;82;169;20;N;Inducido;Cefálica;No;N;7,31;7,36
+Enero;27/01/2017;OYGC;Staff;1;;37;41;260;Primípara;Eutócico;vaginal;3320;No;N;;No;;;80;163;15;N;Espontáneo;Cefálica;No;N;;
+Enero;09/01/2017;NKFQ;Staff;10;;39;33;273;Tercípara;Cesárea;cesarea;1560;;N;;No;DPPNI;Exitus Fetal (7h);68;173;8;N;Espontáneo;Cefálica;No;S;6,8;7,08
+Enero;11/01/2017;YCZM;Staff;3;;37;40;261;Secundípara;Eutócico;vaginal;3160;No;N;;No;;;77;169;10;N;Espontáneo;Cefálica;No;N;;
+Enero;23/01/2017;XCHJ;Staff;8;;32;36;226;Secundípara;Cesárea;cesarea;2420;;N;;Monocorial;Posición anómala de un gemelo;;72;165;18;N;Espontáneo;Cefálica;No;N;;7,38
+Enero;12/01/2017;YCZM;Staff;1;;32;40;227;Primípara;Cesárea;cesarea;4200;;N;;No;Desproporcion pelvifetal;;87;172;19;N;Espontáneo;Cefálica;No;N;;
+Enero;25/01/2017;IZFO;Staff;2;a;41;40;287;Primípara;Ventosa;vaginal;3110;Mediolateral Derecha;S;Amniorrexis;No;Abreviación del expulsivo;;81;167;14;N;Inducido;Cefálica;FIV-DO;N;7,28;7,33
+Enero;23/01/2017;FCVD;Staff;1;;25;40;179;Primípara;Cesárea;cesarea;3450;;N;;No;SPBF;;78,6;168;21;;Espontáneo;Cefálica;No;N;;7,35
+Enero;19/01/2017;BETR;Asociado;5;c;35;39;250;Secundípara;Cesárea;cesarea;3340;;N;;No;Cesárea previa;;79,5;165;7;S;Espontáneo;Cefálica;;S;7,36;
+Enero;19/01/2017;FWHI;Staff;2;a;36;40;252;Primípara;Fórceps Naegel;vaginal;3640;Mediolateral Derecha;S;Gestación Prolongada;No;;;85;165;15;;Inducido;Cefálica;;N;;
+Enero;27/01/2017;VFAY;Staff;1;;30;38;216;Primípara;Espátulas;vaginal;2770;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;72,5;158;14;N;Espontáneo;Cefálica;No;N;;
+Enero;12/01/2017;NKFQ;Staff;4;a;26;38;187;Tercípara;Espátulas;vaginal;3830;No;S;Sospecha de Macrosoma;No;;;87;155;12;N;Inducido;Cefálica;No;N;7,2;7,25
+Enero;24/01/2017;IZFO;Staff;1;;30;39;211;Primípara;Eutócico;vaginal;3100;No;N;;No;;;12;151;12;N;Espontáneo;Cefálica;No;N;;
+Enero;19/01/2017;OVLV;Asociado;3;;34;39;244;Secundípara;Eutócico;vaginal;3110;No;N;;No;;;66;163;11;N;Espontáneo;Cefálica;No;N;;
+Enero;24/01/2017;XZKQ;Staff;3;;29;40;207;Secundípara;Eutócico;vaginal;3570;No;N;;No;;;93;167;10;N;Espontáneo;Cefálica;No;N;;7,42
+Enero;26/01/2017;IZFO;Staff;2;b;43;39;301;Primípara;Cesárea;cesarea;2930;;N;;No;Otros;;78;176;18;N;Espontáneo;Cefálica;No;N;7,27;7,35
+Enero;25/01/2017;BEGQ;Asociado;3;;32;39;230;Tercípara;Eutócico;vaginal;3230;No;N;;No;;;78;165;13;N;Espontáneo;Cefálica;No;N;;
+Enero;10/01/2017;NCIH;Staff;8;b;40;37;281;Secundípara;Cesárea;cesarea;3400;;N;;Bicorial;Patología materna;;96;0;14;insulinizada;Espontáneo;Podálica;FIV;S;;
+Enero;02/01/2017;FWHI;Staff;2;a;38;38;268;Primípara;Cesárea;cesarea;2660;No;S;Amniorrexis;No;Abreviación del expulsivo;;78;160;10;N;Inducido;Cefálica;No;N;;
+Enero;11/01/2017;STWB;Asociado;5;c;40;38;280;Tercípara;Cesárea;cesarea;3440;;N;;No;Cesárea previa;;85;160;20;;Espontáneo;Cefálica;;S;7,27;7,37
+Enero;09/01/2017;IZFO;Staff;5;c;33;39;231;Secundípara;Cesárea;cesarea;2900;;N;;No;Cesárea previa;;86;156;16;N;Espontáneo;Cefálica;No;S;;7,28
+Enero;16/01/2017;GWVF;Asociado;1;;34;39;238;Primípara;Eutócico;vaginal;3060;No;N;;No;;;75;165;15;;Espontáneo;Cefálica;No;N;7,18;
+Enero;23/01/2017;WCYE;Asociado;2;a;37;41;260;Primípara;Eutócico;vaginal;2970;Media;S;Gestación Prolongada;No;;;88;169;8;;Inducido;Cefálica;;N;;
+Enero;03/01/2017;YCZM;Staff;1;;31;40;221;Primípara;Cesárea;cesarea;3000;;N;;No;SPBF;;94;164;9;N;Espontáneo;Cefálica;No;N;;
+Enero;10/01/2017;VSQH;Staff;1;;32;40;229;Primípara;Cesárea;cesarea;3400;No;N;;No;SPBF;;102;158;20;N;Espontáneo;Cefálica;No;N;7,29;7,36
+Enero;22/01/2017;LTLD;Staff;3;;34;40;240;Secundípara;Espátulas;vaginal;3770;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;80;170;10;;Espontáneo;Cefálica;No;N;;7,38
+Enero;23/01/2017;KNAK;Asociado;3;;32;37;225;Tercípara;Eutócico;vaginal;2650;No;N;;No;Abreviación del expulsivo;;56;158;6;N;Espontáneo;Cefálica;No;N;;
+Enero;16/01/2017;VFAY;Staff;1;;36;40;254;Primípara;Eutócico;vaginal;3300;Mediolateral Derecha;N;;No;;;81;160;17;N;Espontáneo;Cefálica;No;N;7,21;
+Enero;10/01/2017;ILEU;Asociado;3;;36;39;258;Secundípara;Eutócico;vaginal;3000;No;N;;No;;;71;174;4;N;Espontáneo;Cefálica;No;N;;
+Enero;25/01/2017;XCHJ;Staff;3;;34;40;240;Secundípara;Eutócico;vaginal;3330;No;N;;No;;;93;161;23;N;Espontáneo;Cefálica;No;N;7,4;7,43
+Enero;19/01/2017;XZKQ;Staff;3;;32;40;224;Secundípara;Eutócico;vaginal;3570;No;N;;No;;;76;158;20;;Espontáneo;Cefálica;No;N;7,29;7,41
+Enero;25/01/2017;XOWN;Asociado;2;a;36;41;254;Primípara;Cesárea;cesarea;3880;No;S;Amniorrexis;No;Parto estacionado;;82;155;6;N;Inducido;Cefálica;;N;;7,32
+Enero;29/01/2017;NHDJ;Staff;5;a;31;39;217;Secundípara;Forceps Kjelland;vaginal;3550;Mediolateral Derecha;N;;No;Distocia de rotación;;76;163;12;;Espontáneo;Cefálica;;S;7,12;7,2
+Enero;20/01/2017;STWB;Asociado;2;a;26;39;188;Primípara;Forceps Kjelland;vaginal;3340;Mediolateral Derecha;S;Retraso crecimiento;No;Abreviación del expulsivo;;70;161;11;;Inducido;Cefálica;;N;;
+Enero;04/01/2017;VSQH;Staff;10;;39;34;279;Secundípara;Cesárea;cesarea;2400;;N;;No;Patología placentaria;;78;152;13;N;Espontáneo;Cefálica;No;N;7,4;7,4
+Enero;19/01/2017;OVLV;Asociado;2;b;32;38;227;Primípara;Cesárea;cesarea;3070;;N;;No;SPBF;;85;150;10;N;Espontáneo;Cefálica;No;N;;
+Enero;23/01/2017;XCHJ;Staff;2;a;39;41;273;Primípara;Cesárea;cesarea;3760;;S;Amniorrexis;No;Desproporcion pelvifetal;;100;170;10;N;Inducido;Cefálica;FIV-DO;N;7,2;7,31
+Enero;08/01/2017;XZKQ;Staff;8;;44;36;308;Primípara;Cesárea;cesarea;2190;;N;;Bicorial;Posición anómala de un gemelo;;75;159;15;S;Espontáneo;Cefálica;FIV-DO;N;7,26;7,31
+Enero;18/01/2017;NCIH;Staff;3;;35;38;249;Secundípara;Eutócico;vaginal;3100;No;N;;No;;;73;162;0;N;Espontáneo;Cefálica;No;N;;7,36
+Enero;20/01/2017;KNAK;Asociado;2;b;32;38;230;Primípara;Cesárea;cesarea;2520;;N;;No;Patología materna;;81;158;13;N;Espontáneo;Cefálica;No;N;;
+Enero;25/01/2017;JKVZ;Asociado;4;a;35;38;245;Secundípara;Eutócico;vaginal;2700;No;S;Otros;No;;;67,9;158;10;;Inducido;Cefálica;;N;;
+Enero;04/01/2017;LTLD;Staff;2;a;31;41;218;Primípara;Cesárea;cesarea;3600;;S;Gestación Prolongada;No;Desproporcion pelvifetal;;86;164;13;N;Inducido;Cefálica;No;N;7,36;
+Enero;21/01/2017;ILEU;Asociado;2;a;35;41;247;Primípara;Cesárea;cesarea;3470;;S;Amniorrexis;No;Desproporcion pelvifetal;;72;160;14;N;Inducido;Cefálica;No;N;;
+Enero;03/01/2017;FCVD;Staff;5;c;38;38;270;Secundípara;Cesárea;cesarea;3500;No;N;;No;Patología placentaria;Atonía;78;160;14;N;Espontáneo;Cefálica;No;S;7,28;7,31
+Enero;16/01/2017;XCHJ;Staff;5;c;25;39;177;Secundípara;Cesárea;cesarea;2880;;N;;No;Cesárea previa;;80;170;13;N;Espontáneo;Cefálica;No;S;;
+Enero;22/01/2017;IZFO;Staff;3;;30;40;214;Secundípara;Eutócico;vaginal;3710;Media;N;;No;;;85;170;22;N;Espontáneo;Cefálica;No;N;;
+Enero;21/01/2017;VCYG;Staff;3;;40;39;286;Tercípara;Eutócico;vaginal;3110;No;N;;No;Abreviación del expulsivo;;69;168;7;N;Espontáneo;Cefálica;No;N;;
+Enero;25/01/2017;NHDJ;Staff;2;a;32;40;224;Primípara;Ventosa;vaginal;3510;No;S;;No;Abreviación del expulsivo;;86;167;17;;Inducido;Cefálica;FIV;N;;7,33
+Enero;27/01/2017;WCYE;Asociado;5;a;34;40;242;Secundípara;Cesárea;cesarea;3330;;N;;No;Distocia de descenso;;83;170;20;;Espontáneo;Cefálica;No;S;;
+Enero;16/01/2017;TSVW;Asociado;1;;31;40;218;Primípara;Eutócico;vaginal;3460;Mediolateral Derecha;N;;No;;;77;162;11;;Espontáneo;Cefálica;;N;;
+Enero;20/01/2017;MORT;Staff;3;;31;40;219;Secundípara;Eutócico;vaginal;4200;Mediolateral Derecha;N;;No;;;95;165;20;N;Espontáneo;Cefálica;No;N;7,25;7,33
+Enero;24/01/2017;OVLV;Asociado;2;a;34;42;238;Primípara;Cesárea;cesarea;3450;;S;Gestación Prolongada;No;Fracaso de inducción;;76;159;23;;Inducido;Cefálica;FIV;N;7,26;
+Enero;31/01/2017;XCHJ;Staff;1;;37;39;263;Primípara;Espátulas;vaginal;3700;No;N;;No;Abreviación del expulsivo;;78;169;18;N;Espontáneo;Cefálica;No;N;7,31;7,32
+Enero;21/01/2017;MEMD;Asociado;2;a;36;39;256;Primípara;Cesárea;cesarea;3480;;S;Otros;No;Abreviación del expulsivo;;83;160;9;;Inducido;Cefálica;FIV;N;;7,3
+Enero;17/01/2017;STWB;Asociado;6;;37;37;265;Primípara;Cesárea;cesarea;3430;;N;;No;;;73;156;13;;Espontáneo;Podálica;;N;;
+Enero;08/01/2017;XZKQ;Staff;1;;30;39;210;Primípara;Eutócico;vaginal;3040;Mediolateral Derecha;N;;No;;;62;160;12;;Espontáneo;Cefálica;No;N;7,4;7,41
+Enero;06/01/2017;VOEU;Staff;1;;30;38;212;Primípara;Forceps Naegele;vaginal;2900;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;30;175;8;N;Espontáneo;Cefálica;No;N;;7,24
+Enero;21/01/2017;MEMD;Asociado;1;;31;39;220;Primípara;Eutócico;vaginal;2810;Mediolateral Izquierda;N;;No;;;75;162;17;;Espontáneo;Cefálica;No;N;;
+Enero;13/01/2017;AFXV;Staff;1;;31;40;220;Primípara;Eutócico;vaginal;3710;Mediolateral Derecha;N;;No;;;63;167;13;Dieta;Espontáneo;Cefálica;No;N;7,3;7,32
+Enero;17/01/2017;XCHJ;Staff;9; ;33;39;231;Tercípara;Cesárea;cesarea;4410;;N;;No;Transversas;Rotura uterina;175;91;0;N;Espontáneo;Trasnversa;No;S;7,25;
+Enero;17/01/2017;XZKQ;Staff;2;a;34;41;241;Primípara;Cesárea;cesarea;3600;;S;Gestación Prolongada;No;Desproporcion pelvifetal;;67;159;13;N;Inducido;Cefálica;FIV;N;7,25;7,35
+Enero;27/01/2017;LTLD;Staff;3;;37;40;263;Secundípara;Eutócico;vaginal;3950;Mediolateral Derecha;N;;No;;;76;168;15;N;Espontáneo;Cefálica;No;N;7,21;7,33
+Enero;29/01/2017;CEJB;Asociado;1;;33;40;232;Primípara;Eutócico;vaginal;3230;Mediolateral Derecha;N;;No;;;63;167;13;;Espontáneo;Cefálica;No;N;;
+Enero;01/01/2017;XZKQ;Staff;10;;28;35;196;Primípara;Cesárea;cesarea;1840;;N;;No;Parto estacionado;;76;164;10;N;Espontáneo;Cefálica;No;N;7,28;7,39
+Enero;12/01/2017;TSVW;Asociado;10;;32;36;229;Secundípara;Ventosa;vaginal;2240;No;S;Amniorrexis;No;Abreviación del expulsivo;;65;163;15;N;Inducido;Cefálica;No;N;7,29;7,31
+Enero;01/01/2017;FWHI;Staff;1;;29;40;204;Primípara;Cesárea;cesarea;2980;No;N;;No;SPBF;;60;160;7;N;Espontáneo;Cefálica;No;N;;
+Enero;09/01/2017;IZFO;Staff;3;;34;41;239;Tercípara;Eutócico;vaginal;3240;No;N;;No;;;73;167;15;N;Espontáneo;Cefálica;;N;;
+Enero;01/01/2017;STWB;Asociado;5;a;33;39;231;Secundípara;Cesárea;cesarea;3190;;N;;No;Desproporcion pelvifetal;;67;164;10;;Espontáneo;Cefálica;;S;7,39;
+Enero;29/01/2017;AXUK;Staff;5;a;35;39;245;Secundípara;Cesárea;cesarea;3410;;N;;No;Distocia de descenso;;83;161;13;;Espontáneo;Cefálica;No;S;7,33;
+Enero;02/01/2017;HFTQ;Staff;1;;31;41;221;Primípara;Cesárea;cesarea;3070;;N;;No;SPBF;;110;170;14;N;Espontáneo;Cefálica;No;N;7,27;7,37
+Enero;15/01/2017;YCZM;Staff;1;;35;39;250;Primípara;Cesárea;cesarea;4200;;N;;No;Desproporcion pelvifetal;;94;162;15;N;Espontáneo;Cefálica;No;N;;
+Enero;09/01/2017;HFTQ;Staff;3;;31;40;217;Secundípara;Cesárea;cesarea;3740;;N;;No;Desproporcion pelvifetal;;72;160;12;N;Espontáneo;Cefálica;No;N;7,32;7,35
+Enero;21/01/2017;TSVW;Asociado;1;;31;37;220;Primípara;Forceps Kjelland;vaginal;3920;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;85;165;11;S;Espontáneo;Cefálica;;N;;
+Enero;20/01/2017;DFCL;Staff;3;;32;40;224;Secundípara;Eutócico;vaginal;3920;No;N;;No;;;62;170;10;N;Espontáneo;Cefálica;No;N;;
+Enero;02/01/2017;FWHI;Staff;1;;30;39;212;Primípara;Forceps Naegele;vaginal;2860;No;N;;No;Distocia de descenso;;65;152;0;N;Espontáneo;Cefálica;No;N;7,33;7,39
+Enero;03/01/2017;XZKQ;Staff;5;c;30;39;211;Secundípara;Cesárea;cesarea;3900;;N;;No;Patología materna;;71;157;20;N;Espontáneo;Cefálica;No;S;7,25;7,32
+Enero;07/01/2017;XZKQ;Staff;5;a;32;39;230;Secundípara;Forceps Naegele;vaginal;3220;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;73;169;11;N;Espontáneo;Cefálica;No;S;7,21;7,24
+Enero;19/01/2017;IZFO;Staff;4;a;35;39;249;Secundípara;Eutócico;vaginal;4150;No;S;Sospecha de Macrosoma;No;;;113;165;11;N;Inducido;Cefálica;No;N;;
+Enero;29/01/2017;VCYG;Staff;1;;32;38;229;Primípara;Cesárea;cesarea;4020;No;N;;No;SPBF;;90;173;10;N;Espontáneo;Cefálica;FIV;N;;7,36
+Enero;18/01/2017;MEMD;Asociado;3;;28;39;196;Secundípara;Eutócico;vaginal;4000;;N;;No;;;60;168;14;N;Espontáneo;Cefálica;No;N;;
+Enero;24/01/2017;OYGC;Staff;1;;35;40;248;Primípara;Cesárea;cesarea;4000;;N;;No;Otros;;98;161;16;;Espontáneo;Cefálica;No;N;7,24;7,33
+Enero;12/01/2017;FCVD;Staff;4;a;34;38;240;Secundípara;Eutócico;vaginal;2600;No;S;Retraso crecimiento;No;;;59,5;154;10;N;Inducido;Cefálica;No;N;7,35;7,39
+Enero;11/01/2017;XZKQ;Staff;10;;29;36;208;Primípara;Cesárea;cesarea;3350;;S;Amniorrexis;No;Desproporcion pelvifetal;;99;162;18;N;Inducido;Cefálica;No;N;7,27;7,36
+Enero;01/01/2017;XZKQ;Staff;3;;33;40;231;Secundípara;Eutócico;vaginal;3870;;N;;No;;;79;178;13;N;Espontáneo;Cefálica;No;N;7,21;
+Enero;12/01/2017;TSVW;Asociado;2;a;33;41;233;Primípara;Cesárea;cesarea;3440;;S;Gestación Prolongada;No;SPBF;;74;167;17;;Inducido;Cefálica;No;N;7,32;
+Enero;28/01/2017;LTLD;Staff;6;;36;36;256;Primípara;Cesárea;cesarea;2630;;N;;No;Podálica;;83;173;10;N;Espontáneo;Podálica;No;N;;
+Enero;09/01/2017;XCHJ;Staff;3;;38;37;271;Tercípara;Eutócico;vaginal;3750;No;N;;No;;;70;159;12;N;Espontáneo;Cefálica;No;N;;7,29
+Enero;05/01/2017;DFCL;Staff;1;;31;40;220;Primípara;Cesárea;cesarea;3530;;N;;No;Parto estacionado;;84;160;0;N;Espontáneo;Cefálica;No;N;7,32;7,36
+Enero;03/01/2017;FWHI;Staff;10;;35;36;250;Primípara;Cesárea;cesarea;1970;No;S;Patología Fetal;No;SPBF;;64;164;10;N;Inducido;Cefálica;No;N;7,28;7,3
+Enero;16/01/2017;FWHI;Staff;3;;36;41;255;Secundípara;Eutócico;vaginal;3820;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;87;160;17;N;Espontáneo;Cefálica;No;N;7,29;7,28
+Enero;02/01/2017;COXI;Asociado;6;b;28;37;197;Primípara;Cesárea;cesarea;3150;No;N;;No;Podálica;;95;171;17;;Espontáneo;Podálica;No;N;7,24;7,28
+Enero;22/01/2017;STWB;Asociado;1;;28;41;197;Primípara;Cesárea;cesarea;3570;;N;;No;Desproporcion pelvifetal;;78;162;9;;Espontáneo;Cefálica;No;N;7,35;7,42
+Enero;13/01/2017;KNAK;Asociado;5;b;42;39;295;Cuartípara;Eutócico;vaginal;2810;No;S;Patología Materna;No;;;70;156;10;N;Inducido;Cefálica;;S;7,3;7,37
+Enero;17/01/2017;CEJB;Asociado;1;;35;41;245;Primípara;Cesárea;cesarea;3000;;N;;No;Distocia de descenso;;76;161;7;S;Espontáneo;Cefálica;IAD;N;7,19;7,24
+Enero;01/01/2017;FWHI;Staff;2;a;40;41;282;Primípara;Forceps Naegele;vaginal;3700;Mediolateral Derecha;S;;No;Abreviación del expulsivo;;80;172;15;N;Inducido;Cefálica;No;N;7,38;7,4
+Enero;01/01/2017;AFXV;Staff;3;;35;40;250;Secundípara;Eutócico;vaginal;3700;No;N;;No;;;82;165;15;N;Espontáneo;Cefálica;No;N;;
+Enero;23/01/2017;XCHJ;Staff;3;;32;41;226;Secundípara;Forceps Kjelland;vaginal;3650;No;N;;No;Distocia de rotación;;92,4;155;12;N;Espontáneo;Cefálica;No;N;7,1;
+Enero;17/01/2017;TSVW;Asociado;1;;36;40;257;Primípara;Eutócico;vaginal;3300;No;N;;No;;;91;172;21;;Espontáneo;Cefálica;No;N;7,05;7,12
+Enero;13/01/2017;MORT;Staff;3;;41;39;290;Secundípara;Eutócico;vaginal;2530;No;N;;No;;;73;160;11;N;Espontáneo;Cefálica;No;N;7,02;7,11
+Enero;29/01/2017;VCYG;Staff;3;;41;39;292;Secundípara;Eutócico;vaginal;3310;No;N;;No;;;82;165;21;N;Espontáneo;Cefálica;No;N;7,27;7,4
+Enero;11/01/2017;VSQH;Staff;2;a;37;37;262;Primípara;Eutócico;vaginal;3510;Mediolateral Derecha;S;Hipertensión;No;;;88;155;26;N;Inducido;Cefálica;No;N;7,36;7,4
+Enero;12/01/2017;VFAY;Staff;2;a;40;41;285;Primípara;Cesárea;cesarea;3280;;S;Amniorrexis;No;Desproporcion pelvifetal;;93;155;10;N;Inducido;Cefálica;No;N;7,22;7,27
+Enero;03/01/2017;XZKQ;Staff;4;a;32;39;224;Secundípara;Eutócico;vaginal;3430;No;S;Otros;No;;;80;162;0;N;Inducido;Cefálica;IAC;N;7,39;7,4
+Enero;04/01/2017;VSQH;Staff;1;;29;40;203;Primípara;Eutócico;vaginal;2950;Mediolateral Derecha;N;;No;;;61;154;12;N;Espontáneo;Cefálica;No;N;7,31;7,36
+Enero;09/01/2017;NHDJ;Staff;5;b;38;41;267;Secundípara;Cesárea;cesarea;3790;;S;Gestación Prolongada;No;Desproporcion pelvifetal;;87;155;25;;Inducido;Cefálica;No;S;;
+Enero;08/01/2017;MORT;Staff;1;;35;40;247;Primípara;Ventosa;vaginal;3180;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;75;169;19;N;Espontáneo;Cefálica;No;N;;7,35
+Enero;17/01/2017;ILEU;Asociado;2;a;30;41;216;Primípara;Cesárea;cesarea;3400;;S;Gestación Prolongada;No;Desproporcion pelvifetal;;72;168;10;N;Inducido;Cefálica;No;N;7,26;7,27
+Enero;01/01/2017;FWHI;Staff;1;;34;41;241;Primípara;Forceps Naegele;vaginal;3090;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;63;167;7;N;Espontáneo;Cefálica;No;N;7,4;
+Enero;23/01/2017;AFXV;Staff;2;a;30;41;213;Primípara;Cesárea;cesarea;3540;No;S;Gestación Prolongada;No;Fracaso de inducción;;82;155;20;N;Inducido;Cefálica;No;N;;
+Enero;28/01/2017;LTLD;Staff;1;;33;40;236;Primípara;Eutócico;vaginal;3050;No;N;;No;;;62;162;14;N;Espontáneo;Cefálica;No;N;7,24;7,32
+Enero;09/01/2017;IZFO;Staff;2;a;39;41;275;Primípara;Ventosa;vaginal;3300;Media;S;Gestación Prolongada;No;Abreviación del expulsivo;;87;169;13;S;Inducido;Cefálica;No;N;7,33;7,19
+Enero;19/01/2017;XCHJ;Staff;5;c;35;39;247;Secundípara;Cesárea;cesarea;3270;;N;;No;Cesárea previa;;67;150;13;N;Espontáneo;Cefálica;FIV-DO;S;7,12;7,24
+Enero;25/01/2017;NCIH;Staff;1;;38;40;271;Primípara;Cesárea;cesarea;3680;;N;;No;Distocia de descenso;;83;154;16;N;Espontáneo;Cefálica;No;N;;7,25
+Enero;30/01/2017;XZKQ;Staff;5;a;34;39;242;Secundípara;Eutócico;vaginal;3500;No;N;;No;;;85;163;15;N;Espontáneo;Cefálica;No;S;7,35;7,35
+Enero;30/01/2017;GWVF;Asociado;5;c;35;40;245;Secundípara;Cesárea;cesarea;3870;;N;;No;Desproporcion pelvifetal;;80;170;18;;Espontáneo;Cefálica;No;S;;
+Enero;16/01/2017;XZKQ;Staff;3;;34;40;238;Secundípara;Eutócico;vaginal;3260;No;N;;No;;;89;160;14;;Espontáneo;Cefálica;No;N;7,23;7,31
+Enero;13/01/2017;MORT;Staff;3;;35;40;246;Secundípara;Eutócico;vaginal;3050;No;N;;No;;;89,5;162;14;N;Espontáneo;Cefálica;No;N;7,29;7,36
+Enero;19/01/2017;HFTQ;Staff;5;c;35;39;246;Secundípara;Cesárea;cesarea;3260;;N;;No;Cesárea previa;;70;166;13;N;Espontáneo;Cefálica;No;S;7,32;
+Enero;21/01/2017;EAKF;Asociado;3;;33;39;237;Secundípara;Eutócico;vaginal;2620;No;N;;No;;;62;172;10;;Espontáneo;Cefálica;;N;;
+Enero;08/01/2017;XZKQ;Staff;1;;31;39;222;Primípara;Cesárea;cesarea;2550;;N;;No;SPBF;;86;168;16;N;Espontáneo;Cefálica;No;N;7,25;7,29
+Enero;06/01/2017;LTLD;Staff;3;;37;40;259;Secundípara;Eutócico;vaginal;3300;No;N;;No;;;68;168;13;N;Espontáneo;Cefálica;No;N;7,12;7,3
+Enero;05/01/2017;TSVW;Asociado;5;c;41;39;293;Secundípara;Cesárea;cesarea;3130;;N;;No;Cesárea previa;;80;159;10;N;Espontáneo;Cefálica;No;S;6,97;7,03
+Enero;17/01/2017;XZKQ;Staff;10;;43;35;302;Tercípara;Eutócico;vaginal;2420;No;N;;No;;;73;170;13;N;Espontáneo;Cefálica;No;N;7,27;7,36
+Enero;02/01/2017;HFTQ;Staff;1;;35;38;245;Primípara;Espátulas;vaginal;3200;No;N;;No;Abreviación del expulsivo;;74;160;13;N;Espontáneo;Cefálica;No;N;7,25;7,37
+Enero;28/01/2017;LTLD;Staff;1;;31;38;223;Primípara;Eutócico;vaginal;2860;No;N;;No;;;64;160;14;;Espontáneo;Cefálica;No;N;7,33;7,45
+Enero;11/01/2017;MORT;Staff;1;;31;41;219;Primípara;Eutócico;vaginal;4010;No;N;;No;;;120;177;0;N;Espontáneo;Cefálica;No;N;7,17;7,25
+Enero;21/01/2017;MORT;Staff;3;;30;40;211;Secundípara;Eutócico;vaginal;2960;No;N;;No;;;69,6;162;7,5;N;Espontáneo;Cefálica;No;N;;
+Enero;03/01/2017;NJXG;Asociado;2;a;39;39;277;Primípara;Forceps Kjelland;vaginal;3810;Mediolateral Derecha;S;Sospecha de Macrosoma;No;Abreviación del expulsivo;;73;160;14;;Inducido;Cefálica;;N;;
+Enero;30/01/2017;XCHJ;Staff;1;;33;40;233;Primípara;Cesárea;cesarea;4050;;N;;No;Otros;;72;165;15;dieta, buen control metabólico;Espontáneo;Cefálica;No;N;7,3;7,36
+Enero;26/01/2017;XCHJ;Staff;1;;31;39;221;Primípara;Espátulas;vaginal;3160;No;N;;No;Abreviación del expulsivo;;64;158;12;N;Espontáneo;Cefálica;No;N;;7,38
+Enero;12/01/2017;YCRA;Asociado;1;;33;40;235;Primípara;Eutócico;vaginal;3280;Mediolateral Derecha;N;;No;;;0;0;0;N;Espontáneo;Cefálica;No;N;7,28;7,39
+Enero;30/01/2017;VFAY;Staff;5;b;39;40;274;Tercípara;Eutócico;vaginal;3570;Mediolateral Derecha;S;Oligoamnios;No;;;85;170;15;N;Inducido;Cefálica;No;S;;
+Enero;18/01/2017;NHDJ;Staff;5;a;36;39;252;Secundípara;Eutócico;vaginal;2920;No;N;Otros;No;Abreviación del expulsivo;;62;158;0;S;Espontáneo;Cefálica;No;S;7,25;7,35
+Enero;15/01/2017;YCZM;Staff;3;;35;40;251;Secundípara;Eutócico;vaginal;3640;No;N;;No;;;81;165;15;N;Espontáneo;Cefálica;No;N;;
+Enero;21/01/2017;VCYG;Staff;3;;30;38;211;Secundípara;Eutócico;vaginal;2950;No;N;;No;;;69;165;10;N;Espontáneo;Cefálica;No;N;;
+Enero;06/01/2017;BETR;Asociado;1;;33;40;234;Primípara;Cesárea;cesarea;3270;;N;;No;Desproporcion pelvifetal;;66;163;13;S;Espontáneo;Cefálica;;N;;
+Enero;16/01/2017;IZFO;Staff;8;;42;37;301;Primípara;Cesárea;cesarea;2640;;N;;Bicorial;Posición anómala de un gemelo;;68;166;13;N;Espontáneo;Cefálica;FIV;N;7,37;
+Enero;25/01/2017;MORT;Staff;3;;40;37;284;Secundípara;Eutócico;vaginal;3260;No;N;;No;;;74;159;2;S;Espontáneo;Cefálica;No;N;7,34;7,22
+Enero;09/01/2017;XCHJ;Staff;1;;35;41;247;Primípara;Espátulas;vaginal;2950;No;N;;No;Abreviación del expulsivo;;75;161;16;N;Espontáneo;Cefálica;No;N;7,15;7,18
+Enero;04/01/2017;LTLD;Staff;3;;32;38;226;Tercípara;Eutócico;vaginal;2940;;N;;No;;;0;162;0;N;Espontáneo;Cefálica;No;N;;
+Enero;28/01/2017;LTLD;Staff;10;;35;34;249;Primípara;Cesárea;cesarea;2460;;N;;No;Otros;;87;161;20;N;Espontáneo;Cefálica;No;N;7,31;7,34
+Enero;28/01/2017;OVLV;Asociado;3;;30;39;215;Secundípara;Eutócico;vaginal;3850;;N;;No;;;74;168;10;N;Espontáneo;Cefálica;No;N;;
+Enero;09/01/2017;IZFO;Staff;6;b;29;39;204;Primípara;Cesárea;cesarea;2530;;N;Oligoamnios;No;Podálica;;75;160;20;N;Espontáneo;Podálica;No;N;7,27;7,22
+Enero;04/01/2017;LTLD;Staff;5;c;40;39;281;Secundípara;Cesárea;cesarea;3210;;N;;No;Cesárea previa;;70;152;20;N;Espontáneo;Cefálica;No;S;7,3;
+Enero;11/01/2017;IZFO;Staff;6;;33;35;237;Primípara;Cesárea;cesarea;2370;;N;;No;Podálica;;69;160;9;N;Espontáneo;Podálica;;N;7,31;7,39
+Enero;27/01/2017;VSQH;Staff;4;a;24;40;173;Secundípara;Eutócico;vaginal;3870;No;S;Gestación Prolongada;No;;;82;170;9;N;Inducido;Cefálica;No;N;7,4;7,41
+Enero;20/01/2017;WCYE;Asociado;5;c;39;40;278;Secundípara;Cesárea;cesarea;3120;;N;;No;Cesárea previa;;89;159;10;;Espontáneo;Cefálica;;S;;
+Enero;30/01/2017;GWVF;Asociado;4;a;40;40;280;Tercípara;Eutócico;vaginal;3740;No;S;Gestación Prolongada;No;;;75;168;14;;Inducido;Cefálica;No;N;;
+Enero;24/01/2017;FCVD;Staff;2;a;33;40;232;Primípara;Cesárea;cesarea;3550;;S;Amniorrexis;No;Desproporcion pelvifetal;;85;163;17;N;Espontáneo;Cefálica;No;N;7,22;7,29
+Enero;23/01/2017;JKVZ;Asociado;5;a;31;39;221;Secundípara;Eutócico;vaginal;3340;Mediolateral Derecha;N;;No;;;64;165;11;N;Espontáneo;Cefálica;;S;;
+Enero;18/01/2017;AFXV;Staff;1;;28;39;197;Primípara;Cesárea;cesarea;3620;;N;;No;Abreviación del expulsivo;;75;160;15;N;Espontáneo;Cefálica;No;N;7,31;
+Enero;10/01/2017;IZFO;Staff;2;a;32;38;230;Primípara;Cesárea;cesarea;3040;;S;Otros;No;Fracaso de inducción;;67;150;9;S;Inducido;Cefálica;No;N;7,3;7,34
+Enero;30/01/2017;AFXV;Staff;1;;30;40;214;Primípara;Forceps Kjelland;vaginal;3600;Mediolateral Derecha;N;;No;;;0;167;15;N;Espontáneo;Cefálica;No;N;7,37;7,44
+Enero;16/01/2017;MAVP;Asociado;5;c;32;40;229;Secundípara;Cesárea;cesarea;3630;;N;;No;Cesárea previa;;80;173;15;N;Espontáneo;Cefálica;No;S;7,34;7,36
+Enero;16/01/2017;IZFO;Staff;1;;28;41;199;Primípara;Ventosa;vaginal;3650;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;98;167;30;N;Espontáneo;Cefálica;;N;7,22;7,29
+Enero;20/01/2017;KNAK;Asociado;5;c;36;38;256;Cuartípara;Cesárea;cesarea;3310;;N;;No;Cesárea previa;;71;164;11;N;Espontáneo;Cefálica;;S;;
+Enero;01/01/2017;FWHI;Staff;1;;29;41;208;Primípara;Cesárea;cesarea;3120;No;N;;No;SPBF;;70;167;15;N;Espontáneo;Cefálica;No;N;7,25;7,3
+Enero;18/01/2017;VCYG;Staff;1;;30;39;214;Primípara;Forceps Kjelland;vaginal;3700;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;73,5;159;15;N;Espontáneo;Cefálica;No;N;;
+Enero;20/01/2017;FCVD;Staff;2;a;39;39;278;Primípara;Cesárea;cesarea;3040;;S;Oligoamnios;No;Desproporcion pelvifetal;;86;164;27;N;Inducido;Cefálica;No;N;7,29;7,34
+Enero;06/01/2017;DFCL;Staff;5;a;38;39;268;Secundípara;Forceps Kjelland;vaginal;2600;;N;;No;Abreviación del expulsivo;;59;154;14;N;Espontáneo;Cefálica;FIV;S;7,18;7,27
+Enero;28/01/2017;VCYG;Staff;3;;31;40;220;Secundípara;Eutócico;vaginal;3810;No;N;;No;;;81;173;16;N;Espontáneo;Cefálica;No;N;;
+Enero;31/01/2017;VCYG;Staff;2;a;42;37;294;Primípara;Eutócico;vaginal;2100;No;S;Retraso crecimiento;No;;;60;169;10;S;Inducido;Cefálica;FIV;N;;
+Enero;21/01/2017;LTLD;Staff;3;;28;39;198;Secundípara;Eutócico;vaginal;3060;Mediolateral Derecha;N;;No;;;77;162;20;N;Espontáneo;Cefálica;No;N;7,24;7,34
+Enero;19/01/2017;VFAY;Staff;1;;38;40;272;Primípara;Cesárea;cesarea;3330;No;N;;No;Desproporcion pelvifetal;;72;168;12;N;Espontáneo;Cefálica;No;N;;
+Enero;23/01/2017;NHDJ;Staff;4;b;37;39;259;Secundípara;Cesárea;cesarea;2850;No;N;;No;Otros;;70;171;15;N;Espontáneo;Cefálica;No;N;;
+Enero;29/01/2017;NHDJ;Staff;10;;36;35;258;Primípara;Cesárea;cesarea;2910;;N;;No;Desproporcion pelvifetal;;65;158;14;;Espontáneo;Cefálica;No;N;7,29;7,29
+Enero;13/01/2017;YCRA;Asociado;1;;37;41;259;Primípara;Cesárea;cesarea;3230;;N;;No;SPBF;;80;170;10;N;Espontáneo;Cefálica;No;N;7,07;7,21
+Enero;22/01/2017;VFAY;Staff;1;;31;38;219;Primípara;Eutócico;vaginal;3000;No;N;;No;;;85;173;13;N;Espontáneo;Cefálica;No;N;;
+Enero;02/01/2017;FWHI;Staff;3;;35;39;247;Secundípara;Eutócico;vaginal;3690;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;62;164;11;N;Espontáneo;Cefálica;No;N;;
+Enero;04/01/2017;VSQH;Staff;5;a;41;36;290;Secundípara;Cesárea;cesarea;3300;;N;;No;Distocia de descenso;;82;152;12;N;Espontáneo;Cefálica;No;S;;7,21
+Enero;08/01/2017;MAVP;Asociado;2;a;30;40;215;Primípara;Cesárea;cesarea;3750;;S;Gestación Prolongada;No;Fracaso de inducción;;109;170;4;N;Inducido;Cefálica;No;N;7,28;7,32
+Enero;10/01/2017;VSQH;Staff;4;a;29;40;207;Secundípara;Eutócico;vaginal;3800;Mediolateral Derecha;S;Sospecha de Macrosoma;No;;;100;180;20;N;Inducido;Cefálica;No;N;7,29;7,36
+Febrero;16/02/2017;CEJB;Asociado;2;;34;39;276;Primípara;Eutócico;vaginal;3060;Mediolateral Derecha;S;Amniorrexis;;;;66,00;168,00;10;;No espontáneo;Cefálica;No;N;7,33;
+Febrero;07/02/2017;OVLV;Asociado;6; ;32;39;278;Primípara;Cesárea;cesarea;3460;;N;;No;Podálica;;82,00;165,00;22;N;No espontáneo;Podálica;No;N;7,33;
+Febrero;18/02/2017;XOWN;Asociado;1;;34;40;281;Primípara;Eutócico;vaginal;2980;Mediolateral Derecha;N;;;;;72,00;165,00;0;N;Espontáneo;Cefálica;No;N;;
+Febrero;02/02/2017;QTVV;Asociado;5;c;34;40;285;Secundípara;Cesárea;cesarea;3160;;N;;No;Cesárea previa;;80,00;163,00;17;N;No espontáneo;Cefálica;No;S;7,31;
+Febrero;10/02/2017;XZKQ;Staff;1;;32;41;290;Primípara;Eutócico;vaginal;3350;Mediolateral Derecha;N;;No;;;71,00;162,00;13;;Espontáneo;Cefálica;No;N;7,22;
+Febrero;21/02/2017;VCYG;Staff;3;;33;39;275;Secundípara;Eutócico;vaginal;3000;No;N;;No;;;57,00;159,00;10;N;Espontáneo;Cefálica;No;N;;
+Febrero;08/02/2017;NHDJ;Staff;5;a;37;41;287;Secundípara;Ventosa;vaginal;3400;No;N;;No;Abreviación del expulsivo;;81,00;162,00;15;;Espontáneo;Cefálica;No;S;;7,44
+Febrero;02/02/2017;XCHJ;Staff;5;a;38;39;275;Secundípara;Forceps Kjelland;vaginal;3970;Media;N;;No;Distocia de rotación;;67,00;160,00;12;N;Espontáneo;Cefálica;No;S;;
+Febrero;28/02/2017;IZFO;Staff;5;a;35;40;280;Secundípara;Ventosa;vaginal;3150;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;65,00;162,00;10;N;Espontáneo;Cefálica;No;S;7,3;
+Febrero;05/02/2017;HFTQ;Staff;4;a;40;40;281;Secundípara;Eutócico;vaginal;3050;Mediolateral Derecha;S;Amniorrexis;No;;;59,00;162,00;12;N;No espontáneo;Cefálica;No;N;7,22;
+Febrero;13/02/2017;IXWR;Staff;1;;34;39;273;Primípara;Forceps Naegele;vaginal;3570;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;87,00;170,00;20;N;Espontáneo;Cefálica;No;N;;
+Febrero;11/02/2017;BETR;Asociado;1;;32;38;266;Primípara;Eutócico;vaginal;3220;No;N;;;;;78,00;162,00;12;;Espontáneo;Cefálica;No;N;7,24;
+Febrero;17/02/2017;WCYE;Asociado;2;a;28;40;280;Primípara;Cesárea;cesarea;3350;;S;Oligoamnios;No;Distocia de descenso;;90,00;165,00;5;;No espontáneo;Cefálica;No;N;;
+Febrero;09/02/2017;XCHJ;Staff;1;;35;40;285;Primípara;Forceps Kjelland;vaginal;3560;Mediolateral Derecha;N;;No;Distocia de rotación;;80,20;160,00;10;N;Espontáneo;Cefálica;No;N;7,21;
+Febrero;28/02/2017;AXUK;Staff;3;;34;40;280;Secundípara;Eutócico;vaginal;3370;No;N;;;;;134,00;175,00;0;;Espontáneo;Cefálica;;N;;
+Febrero;27/02/2017;XZKQ;Staff;6; ;32;37;264;Primípara;Cesárea;cesarea;2970;;N;;No;Podálica;;65,00;174,00;11;;Espontáneo;Podálica;No;N;7,31;
+Febrero;15/02/2017;MAVP;Asociado;2;a;30;37;259;Primípara;Cesárea;cesarea;2750;;S;Otros;No;Fracaso de inducción;;73,00;156,00;8;N;No espontáneo;Cefálica;No;N;7,38;
+Febrero;06/02/2017;STWB;Asociado;1;;41;37;263;Primípara;Forceps Kjelland;vaginal;2730;Mediolateral Derecha;N;;;;;65,00;157,00;12;;Espontáneo;Cefálica;;N;7,32;
+Febrero;21/02/2017;MEMD;Asociado;1;;25;40;281;Primípara;Cesárea;cesarea;3060;;N;;;Distocia de descenso;;69,00;161,00;22;;Espontáneo;Cefálica;;N;7,33;
+Febrero;21/02/2017;IZFO;Staff;8;;40;37;261;Primípara;Cesárea;cesarea;2810;;N;;Bicorial;Otros;Atonía;76,00;170,00;20;N;No espontáneo;Cefálica;No;N;7,35;
+Febrero;24/02/2017;YCRA;Asociado;5;c;26;38;270;Secundípara;Cesárea;cesarea;3800;;N;;No;Desproporcion pelvifetal;;82,00;155,00;10;N;No espontáneo;Cefálica;No;S;7,29;
+Febrero;22/02/2017;XCHJ;Staff;1;;27;40;280;Primípara;Eutócico;vaginal;3330;No;N;;No;;;91,00;170,00;13;N;Espontáneo;Cefálica;No;N;;
+Febrero;24/02/2017;NJXG;Asociado;2;a;29;41;287;Primípara;Eutócico;vaginal;2900;Mediolateral Derecha;S;Gestación Prolongada;;;;60,00;158,00;7;;No espontáneo;Cefálica;;N;;
+Febrero;18/02/2017;IZFO;Staff;1;;28;39;278;Primípara;Cesárea;cesarea;3150;;N;;No;Desproporcion pelvifetal;;80,00;165,00;16;N;Espontáneo;Cefálica;No;N;7,27;
+Febrero;20/02/2017;CKWT;Asociado;5;b;36;38;269;Secundípara;Cesárea;cesarea;4470;No;S;Amniorrexis;No;Desproporcion pelvifetal;;92,00;167,00;5;N;No espontáneo;Cefálica;No;S;;
+Febrero;10/02/2017;XZKQ;Staff;1;;32;40;280;Primípara;Eutócico;vaginal;2650;No;N;;No;Abreviación del expulsivo;;92,00;172,00;14;;Espontáneo;Cefálica;No;N;7,25;
+Febrero;24/02/2017;OVLV;Asociado;3;;31;40;280;Secundípara;Eutócico;vaginal;3730;No;N;;No;;;101,80;170,00;0;N;Espontáneo;Cefálica;No;N;;
+Febrero;21/02/2017;FCVD;Staff;4;a;36;40;281;Secundípara;Eutócico;vaginal;3040;No;S;Registro fetal no tranquilizador;No;;;79,00;161,00;15;N;No espontáneo;Cefálica;No;N;7,24;
+Febrero;23/02/2017;NKFQ;Staff;1;;36;39;273;Primípara;Eutócico;vaginal;3050;No;N;;No;;;82,00;167,00;10;N;Espontáneo;Cefálica;No;N;7,26;
+Febrero;03/02/2017;XCHJ;Staff;1;;30;40;281;Primípara;Espátulas;vaginal;3450;No;N;;No;Abreviación del expulsivo;;83,00;150,00;23;N;Espontáneo;Cefálica;No;N;7;
+Febrero;27/02/2017;XZKQ;Staff;10;;36;35;245;Tercípara;Cesárea;cesarea;2520;;N;;No;Patología materna;;110,00;0,00;8;N;No espontáneo;Cefálica;No;N;;
+Febrero;07/02/2017;IZFO;Staff;3;;38;39;274;Secundípara;Eutócico;vaginal;3180;No;N;;No;;;65,00;160,00;9;N;Espontáneo;Cefálica;No;N;;
+Febrero;03/02/2017;FCVD;Staff;3;;28;38;268;Secundípara;Eutócico;vaginal;3250;No;N;;No;;;78,00;165,00;20;N;Espontáneo;Cefálica;No;N;7,31;
+Febrero;07/02/2017;OVLV;Asociado;1;;34;40;281;Primípara;Eutócico;vaginal;3630;Mediolateral Derecha;N;;No;;;98,00;173,00;18;N;Espontáneo;Cefálica;No;N;;
+Febrero;16/02/2017;XZKQ;Staff;5;c;38;39;278;Secundípara;Cesárea;cesarea;3730;;N;;No;Cesárea previa;;79,00;158,00;12;N;No espontáneo;Cefálica;No;S;7,31;
+Febrero;14/02/2017;ZODL;Asociado;1;;37;39;279;Primípara;Eutócico;vaginal;3350;Mediolateral Derecha;N;;;;;83,50;161,00;14;N;Espontáneo;Cefálica;;N;;
+Febrero;07/02/2017;OVLV;Asociado;2;b;33;41;288;Primípara;Cesárea;cesarea;3200;;S;Gestación Prolongada;No;SPBF;;99,50;154,00;10;N;No espontáneo;Cefálica;No;S;7,36;
+Febrero;23/02/2017;IZFO;Staff;10;;34;36;253;Secundípara;Eutócico;vaginal;2610;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;56,00;155,00;9;N;Espontáneo;Cefálica;No;N;7,27;
+Febrero;15/02/2017;VSQH;Staff;4;a;39;37;263;Tercípara;Cesárea;cesarea;2400;;S;Retraso crecimiento;No;SPBF;;70,00;163,00;12;N;No espontáneo;Cefálica;No;N;7,31;
+Febrero;11/02/2017;IZFO;Staff;1;;32;40;283;Primípara;Ventosa;vaginal;3270;No;N;;No;Abreviación del expulsivo;;81,00;163,00;24;N;Espontáneo;Cefálica;No;N;7,17;
+Febrero;09/02/2017;KYTG;Asociado;7; ;31;39;273;Secundípara;Cesárea;cesarea;2840;;N;;No;Cesárea previa;;70,00;156,00;14;N;No espontáneo;Podálica;No;S;;
+Febrero;01/02/2017;IZFO;Staff;8;;28;38;268;Secundípara;Eutócico;vaginal;2590;Media;S;Otros;Bicorial;;;71,00;160,00;16;N;No espontáneo;Cefálica;;N;740;
+Febrero;25/02/2017;VSQH;Staff;1;;27;40;285;Primípara;Espátulas;vaginal;2950;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;72,00;171,00;15;N;Espontáneo;Cefálica;No;N;7,33;
+Febrero;24/02/2017;VSQH;Staff;1;;39;41;288;Primípara;Cesárea;cesarea;4050;No;N;;No;Desproporcion pelvifetal;;71,00;156,00;8;S;Espontáneo;Cefálica;No;N;7,27;
+Febrero;13/02/2017;LTLD;Staff;2;a;35;39;277;Primípara;Eutócico;vaginal;3290;Mediolateral Derecha;S;Amniorrexis;No;;;70,00;0,00;15;N;No espontáneo;Cefálica;No;N;7,17;
+Febrero;24/02/2017;ILEU;Asociado;4;a;36;37;259;Secundípara;Cesárea;cesarea;2100;;S;Retraso crecimiento;No;SPBF;;60,00;160,00;6;N;No espontáneo;Cefálica;;N;;
+Febrero;11/02/2017;NKFQ;Staff;1;;36;39;277;Primípara;Eutócico;vaginal;3000;Media;N;;No;;;74,00;175,00;12;N;Espontáneo;Cefálica;No;N;7,28;
+Febrero;17/02/2017;DFCL;Staff;3;;34;41;289;Secundípara;Eutócico;vaginal;3320;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;66,00;160,00;16;N;Espontáneo;Cefálica;No;N;7,37;
+Febrero;14/02/2017;XZKQ;Staff;4;a;28;40;280;Secundípara;Eutócico;vaginal;4000;Mediolateral Derecha;S;Otros;No;;;71,00;164,00;13;N;No espontáneo;Cefálica;No;N;7,31;
+Febrero;18/02/2017;CEJB;Asociado;5;b;38;37;261;Secundípara;Cesárea;cesarea;2620;;S;Amniorrexis;No;SPBF;;94,00;156,00;16;;No espontáneo;Cefálica;IAC;S;7,3;
+Febrero;10/02/2017;OYGC;Staff;10;;28;28;201;Primípara;Cesárea;cesarea;1040;;N;;No;;;0,00;0,00;0;N;Espontáneo;Cefálica;No;N;7,38;
+Febrero;15/02/2017;HFTQ;Staff;4;a;30;41;287;Secundípara;Eutócico;vaginal;3030;Mediolateral Derecha;S;Gestación Prolongada;No;;;68,00;169,00;8;N;No espontáneo;Cefálica;No;N;7,38;
+Febrero;10/02/2017;ILEU;Asociado;1;;31;37;261;Primípara;Eutócico;vaginal;3000;No;N;;No;;;70,00;168,00;20;;Espontáneo;Cefálica;No;N;;
+Febrero;02/02/2017;MEMD;Asociado;2;a;32;37;264;Primípara;Cesárea;cesarea;3770;;S;Hipertensión;No;Fracaso de inducción;;114,00;167,00;15;N;No espontáneo;Cefálica;No;N;709;
+Febrero;14/02/2017;MEMD;Asociado;5;a;28;39;277;Secundípara;Eutócico;vaginal;3210;;N;;No;;;88,00;166,00;14;N;Espontáneo;Cefálica;No;S;7,33;
+Febrero;26/02/2017;VSQH;Staff;3;;33;39;279;Secundípara;Espátulas;vaginal;3540;Mediolateral Derecha;N;;No;Abreviación del expulsivo;Atonía;79,00;164,00;16;N;Espontáneo;Cefálica;No;N;7,24;
+Febrero;01/02/2017;NKFQ;Staff;2;a;27;41;287;Primípara;Cesárea;cesarea;2960;No;S;Gestación Prolongada;No;SPBF;;99,00;155,00;10;N;No espontáneo;Cefálica;No;N;7,2;
+Febrero;09/02/2017;XCHJ;Staff;2;a;31;39;279;Primípara;Cesárea;cesarea;3860;;S;Amniorrexis;No;Parto estacionado;;87,80;165,00;21;N;No espontáneo;Cefálica;No;N;7,27;
+Febrero;27/02/2017;MORT;Staff;1;;43;41;287;Primípara;Eutócico;vaginal;3500;No;N;;No;;;84,00;160,00;4;N;Espontáneo;Cefálica;FIV;N;7,28;
+Febrero;18/02/2017;XCHJ;Staff;5;a;36;39;273;Secundípara;Cesárea;cesarea;3090;;N;;No;Desproporcion pelvifetal;;67,00;153,00;12;N;Espontáneo;Cefálica;No;S;7,23;
+Febrero;09/02/2017;CKWT;Asociado;9; ;43;37;264;Primípara;Cesárea;cesarea;3180;;N;;No;Patología placentaria;;79,00;167,00;15;N;No espontáneo;Trasnversa;FIV;N;;
+Febrero;02/02/2017;QTVV;Asociado;10;;42;36;257;Secundípara;Cesárea;cesarea;2240;;N;;;Otros;;82,00;163,00;5;S;No espontáneo;Cefálica;;S;7,38;
+Febrero;21/02/2017;VCYG;Staff;1;;36;38;267;Primípara;Eutócico;vaginal;3090;No;N;;No;;;78,00;171,00;18;N;Espontáneo;Cefálica;No;N;7,32;
+Febrero;28/02/2017;LTLD;Staff;4;a;34;40;280;Secundípara;Eutócico;vaginal;2870;Mediolateral Derecha;S;Otros;;;;68,00;160,00;10;N;No espontáneo;Cefálica;No;N;7,23;
+Febrero;12/02/2017;MAVP;Asociado;3;;29;38;266;Secundípara;Eutócico;vaginal;3650;No;N;;No;Abreviación del expulsivo;;63,00;160,00;13;N;Espontáneo;Cefálica;No;N;7,29;
+Febrero;26/02/2017;IZFO;Staff;1;;31;38;270;Primípara;Eutócico;vaginal;3050;No;N;;No;;;70,00;156,00;11;N;Espontáneo;Cefálica;FIV;N;7,32;
+Febrero;09/02/2017;IZFO;Staff;5;a;34;38;270;Secundípara;Cesárea;cesarea;3620;;N;;No;Otros;;67,00;164,00;11;N;Espontáneo;Cefálica;No;S;7,3;
+Febrero;25/02/2017;VSQH;Staff;3;;35;39;274;Secundípara;Eutócico;vaginal;3350;No;N;;No;;;81,30;170,00;11;N;Espontáneo;Cefálica;No;N;7,42;
+Febrero;07/02/2017;IZFO;Staff;5;c;34;38;268;Tercípara;Cesárea;cesarea;3270;;N;;No;;;85,00;170,00;15;N;No espontáneo;Cefálica;;S;7,33;
+Febrero;02/02/2017;MEMD;Asociado;4;a;37;39;276;Secundípara;Eutócico;vaginal;4260;No;S;Sospecha de Macrosoma;No;;;105,00;176,00;20;N;No espontáneo;Cefálica;No;N;;
+Febrero;27/02/2017;ILEU;Asociado;3;;32;40;284;Secundípara;Eutócico;vaginal;3990;No;N;;No;;;74,90;170,00;12;N;Espontáneo;Cefálica;No;N;;
+Febrero;01/02/2017;LTLD;Staff;6; ;32;39;275;Primípara;Cesárea;cesarea;1920;;N;;No;Podálica;;88,00;153,00;13;N;No espontáneo;Podálica;No;N;7,26;
+Febrero;22/02/2017;IZFO;Staff;2;a;27;41;287;Primípara;Ventosa;vaginal;4090;Media;S;Gestación Prolongada;No;Abreviación del expulsivo;;81,00;164,00;19;N;No espontáneo;Cefálica;No;N;7,36;
+Febrero;20/02/2017;NHDJ;Staff;2;b;48;38;271;Primípara;Cesárea;cesarea;4190;No;N;;No;Patología materna;;79,00;165,00;3;N;No espontáneo;Cefálica;FIV-DO;N;7,3;
+Febrero;10/02/2017;BKJX;Asociado;4;a;29;40;286;Secundípara;Eutócico;vaginal;3270;No;S;Gestación Prolongada;;Abreviación del expulsivo;;110,00;176,00;15;N;No espontáneo;Cefálica;No;N;7,37;
+Febrero;28/02/2017;OVLV;Asociado;2;a;33;41;290;Primípara;Eutócico;vaginal;3050;Mediolateral Derecha;S;Gestación Prolongada;No;;;61,00;160,00;11;N;No espontáneo;Cefálica;No;N;;
+Febrero;12/02/2017;FCVD;Staff;1;;30;39;277;Primípara;Cesárea;cesarea;3150;No;N;;;Desproporcion pelvifetal;;86,00;172,00;24;N;Espontáneo;Cefálica;No;N;7,1;
+Febrero;15/02/2017;VFAY;Staff;2;a;38;38;268;Primípara;Cesárea;cesarea;3360;;S;Otros;No;Fracaso de inducción;;60,00;154,00;11;N;No espontáneo;Cefálica;FIV-DO;N;7,37;
+Febrero;17/02/2017;XZKQ;Staff;3;;33;39;275;Secundípara;Eutócico;vaginal;2700;No;N;;No;;;75,00;176,00;12;;Espontáneo;Cefálica;No;N;7,21;
+Febrero;17/02/2017;AFXV;Staff;1;;32;41;288;Primípara;Cesárea;cesarea;3820;No;N;;No;Desproporcion pelvifetal;;86,00;163,00;20;N;Espontáneo;Cefálica;No;N;7,36;
+Febrero;15/02/2017;VSQH;Staff;10; ;25;34;239;Primípara;Cesárea;cesarea;1600;No;N;;No;Patología materna;;80,00;0,00;16;N;Espontáneo;Cefálica;No;N;7,31;
+Febrero;09/02/2017;XCHJ;Staff;5;c;41;40;282;Secundípara;Cesárea;cesarea;3120;;N;;No;Cesárea previa;;59,00;157,00;12;N;No espontáneo;Cefálica;No;S;;
+Febrero;01/02/2017;MAVP;Asociado;3;;38;40;285;Secundípara;Eutócico;vaginal;3170;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;90,00;170,00;21;N;Espontáneo;Cefálica;No;N;726;
+Febrero;13/02/2017;XZKQ;Staff;2;a;30;40;282;Primípara;Eutócico;vaginal;2900;Mediolateral Derecha;S;Amniorrexis;;;;77,00;168,00;7;N;No espontáneo;Cefálica;No;N;7,32;
+Febrero;01/02/2017;XZKQ;Staff;2;a;36;39;276;Primípara;Ventosa;vaginal;3150;Mediolateral Derecha;S;Amniorrexis;No;Abreviación del expulsivo;;60,00;167,00;8;N;No espontáneo;Cefálica;FIV;N;7,17;
+Febrero;08/02/2017;TSVW;Asociado;3;;33;40;281;Secundípara;Eutócico;vaginal;3870;No;N;;No;;;78,00;164,00;18;N;Espontáneo;Cefálica;No;N;7,27;
+Febrero;20/02/2017;IZFO;Staff;2;a;34;41;291;Primípara;Cesárea;cesarea;3310;;S;Gestación Prolongada;No;Fracaso de inducción;;106,00;163,00;28;N;No espontáneo;Cefálica;No;N;7,21;
+Febrero;07/02/2017;UNKN;Asociado;10;;27;36;257;Primípara;Eutócico;vaginal;2680;No;N;;No;;;80,00;154,00;21;N;Espontáneo;Cefálica;No;N;7,31;
+Febrero;27/02/2017;IZFO;Staff;3;;35;39;278;Secundípara;Cesárea;cesarea;3280;;N;;No;Parto estacionado;;71,00;150,00;15;N;Espontáneo;Cefálica;No;N;7,32;
+Febrero;18/02/2017;XOWN;Asociado;1;;30;39;279;Primípara;Ventosa;vaginal;3050;;N;;;Abreviación del expulsivo;;61,00;158,00;13;N;Espontáneo;Cefálica;No;N;7,36;
+Febrero;08/02/2017;IXWR;Staff;10;;26;36;256;Primípara;Forceps Naegele;vaginal;3370;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;68,00;168,00;15;N;Espontáneo;Cefálica;No;N;7,33;
+Febrero;04/02/2017;XCHJ;Staff;1;;32;38;271;Primípara;Forceps Kjelland;vaginal;3700;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;85,00;165,00;15;N;Espontáneo;Cefálica;IAD;N;7,26;
+Febrero;27/02/2017;VSQH;Staff;1;;30;39;278;Primípara;Eutócico;vaginal;3050;No;N;;No;;;103,00;166,00;15;N;Espontáneo;Cefálica;No;N;7,3;
+Febrero;17/02/2017;DFCL;Staff;1;;33;39;279;Primípara;Eutócico;vaginal;3850;Mediolateral Derecha;N;;No;;;125,00;178,00;5;N;Espontáneo;Cefálica;No;N;;
+Febrero;22/02/2017;LTLD;Staff;3;;31;39;275;Secundípara;Eutócico;vaginal;2910;No;N;;;;;67,00;175,00;0;;Espontáneo;Cefálica;No;N;;
+Febrero;28/02/2017;ILEU;Asociado;8;;38;37;261;Primípara;Cesárea;cesarea;2740;;N;;Bicorial;Posición anómala de un gemelo;;77,00;158,00;19;N;No espontáneo;Cefálica;FIV;N;7,23;
+Febrero;06/02/2017;MORT;Staff;3;;34;40;283;Secundípara;Cesárea;cesarea;3900;No;N;;No;SPBF;;80,00;154,00;16;N;Espontáneo;Cefálica;No;N;7,17;
+Febrero;06/02/2017;CKWT;Asociado;5;a;35;39;276;Secundípara;Forceps Naegele;vaginal;3190;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;63,00;161,00;11;N;Espontáneo;Cefálica;No;S;;
+Febrero;18/02/2017;IZFO;Staff;3;;36;39;277;Secundípara;Eutócico;vaginal;3160;Media;N;;No;;;73,00;170,00;15;N;Espontáneo;Cefálica;No;N;7,17;
+Febrero;23/02/2017;NHDJ;Staff;2;a;40;41;291;Primípara;Eutócico;vaginal;3550;No;S;;;Abreviación del expulsivo;;67,50;165,00;12;N;No espontáneo;Cefálica;No;N;7,27;
+Febrero;03/02/2017;MORT;Staff;2;a;31;40;285;Primípara;Cesárea;cesarea;3580;No;S;Patología Materna;No;Desproporcion pelvifetal;;82,00;0,00;15;N;No espontáneo;Cefálica;No;N;7,3;
+Febrero;16/02/2017;MORT;Staff;8;;33;36;258;Primípara;Eutócico;vaginal;2100;Mediolateral Derecha;S;Otros;Monocorial;;;92,80;174,00;21;N;No espontáneo;Cefálica;No;N;7,26;
+Febrero;06/02/2017;NKFQ;Staff;1;;30;38;272;Primípara;Cesárea;cesarea;3380;No;N;;No;Distocia de descenso;;89,00;170,00;20;N;Espontáneo;Cefálica;No;N;7,33;
+Febrero;03/02/2017;XZKQ;Staff;1;;32;41;291;Primípara;Forceps Naegele;vaginal;2950;Mediolateral Derecha;N;;No;Distocia de descenso;;99,00;170,00;13;;Espontáneo;Cefálica;No;N;7,18;
+Febrero;01/02/2017;NCIH;Staff;2;a;33;38;272;Primípara;Cesárea;cesarea;3360;;S;;;SPBF;;94,00;164,00;15;N;No espontáneo;Cefálica;No;N;;
+Febrero;07/02/2017;STZE;Asociado;10;;34;35;246;Primípara;Eutócico;vaginal;2180;Mediolateral Derecha;N;;;;;57,00;158,00;9;;Espontáneo;Cefálica;;N;7,23;
+Febrero;13/02/2017;IZFO;Staff;1;;32;37;259;Primípara;Ventosa;vaginal;2720;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;55,00;160,00;8;N;Espontáneo;Cefálica;No;N;;
+Febrero;26/02/2017;ILEU;Asociado;1;;34;39;276;Primípara;Cesárea;cesarea;3130;;N;;No;Desproporcion pelvifetal;;80,00;169,00;14;N;Espontáneo;Cefálica;No;N;7,15;
+Febrero;20/02/2017;XCHJ;Staff;2;a;29;40;285;Primípara;Cesárea;cesarea;3100;;S;Retraso crecimiento;No;SPBF;;91,00;165,00;20;N;No espontáneo;Cefálica;No;N;7,22;
+Febrero;10/02/2017;WRTP;Asociado;2;a;34;41;287;Primípara;Cesárea;cesarea;3780;No;S;Gestación Prolongada;No;Fracaso de inducción;;72,00;158,00;18;N;No espontáneo;Cefálica;No;N;7,27;
+Febrero;20/02/2017;STWB;Asociado;4;a;36;38;269;Secundípara;Eutócico;vaginal;3650;Mediolateral Derecha;S;Amniorrexis;;;;73,00;170,00;14;;No espontáneo;Cefálica;No;N;;
+Febrero;06/02/2017;XCHJ;Staff;1;;31;37;259;Primípara;Espátulas;vaginal;2820;No;N;;No;Abreviación del expulsivo;;75,00;170,00;14;N;Espontáneo;Cefálica;No;N;7,26;
+Febrero;22/02/2017;IZFO;Staff;2;a;44;39;275;Primípara;Cesárea;cesarea;3200;;S;Otros;No;Fracaso de inducción;;93,00;168,00;7;N;No espontáneo;Cefálica;No;N;7,33;
+Febrero;22/02/2017;XCHJ;Staff;5;c;35;38;268;Tercípara;Cesárea;cesarea;3140;;N;;No;Cesárea previa;;90,00;158,00;15;N;No espontáneo;Cefálica;No;S;7,29;
+Febrero;27/02/2017;BETR;Asociado;2;a;47;41;289;Primípara;Cesárea;cesarea;3750;;S;Gestación Prolongada;;Fracaso de inducción;;62,00;162,00;11;;No espontáneo;Cefálica;FIV-DO;N;7,29;
+Febrero;20/02/2017;GWVF;Asociado;1;;33;40;280;Primípara;Eutócico;vaginal;3210;Mediolateral Izquierda;N;;No;;;#N/A;#N/A;#N/A;N;Espontáneo;Cefálica;No;N;;
+Febrero;26/02/2017;VSQH;Staff;1;;29;39;274;Primípara;Ventosa;vaginal;3000;Mediolateral Derecha;N;;;Abreviación del expulsivo;;67,00;172,00;9;N;Espontáneo;Cefálica;No;N;7,39;
+Febrero;17/02/2017;HFTQ;Staff;3;;31;39;275;Secundípara;Eutócico;vaginal;3760;Mediolateral Derecha;N;;No;;;67,50;165,00;12;N;Espontáneo;Cefálica;No;N;7,39;
+Febrero;01/02/2017;KNAK;Asociado;5;c;28;39;274;Secundípara;Cesárea;cesarea;3780;;N;;No;Cesárea previa;;77,00;164,00;19;N;No espontáneo;Cefálica;No;S;;
+Febrero;22/02/2017;HFTQ;Staff;3;;43;39;278;Secundípara;Eutócico;vaginal;3180;Mediolateral Derecha;N;;No;;;73,00;158,00;13;N;Espontáneo;Cefálica;FIV;N;7,37;
+Febrero;02/02/2017;LTLD;Staff;1;;31;39;273;Primípara;Cesárea;cesarea;3840;;N;;No;Desproporcion pelvifetal;;92,00;161,00;18;N;Espontáneo;Cefálica;No;N;;
+Febrero;09/02/2017;MEMD;Asociado;2;a;35;41;287;Primípara;Cesárea;cesarea;3400;;S;;No;Abreviación del expulsivo;;77,30;159,00;13;N;No espontáneo;Cefálica;No;N;7,29;
+Febrero;13/02/2017;IZFO;Staff;1;;30;41;291;Primípara;Forceps Kjelland;vaginal;3780;Mediolateral Derecha;N;;No;Distocia de descenso;;78,00;160,00;18;N;Espontáneo;Cefálica;No;N;7,19;
+Febrero;21/02/2017;BYOE;Asociado;5;b;29;39;278;Secundípara;Cesárea;cesarea;3570;;S;Registro fetal no tranquilizador;;SPBF;;90,00;175,00;15;N;No espontáneo;Cefálica;No;S;7,31;
+Febrero;20/02/2017;TSVW;Asociado;2;a;38;41;288;Primípara;Cesárea;cesarea;3430;No;S;Gestación Prolongada;No;Parto estacionado;;75,00;163,00;15;N;No espontáneo;Cefálica;No;N;7,21;
+Febrero;12/02/2017;CKWT;Asociado;3;;36;40;282;Secundípara;Eutócico;vaginal;3330;No;N;;No;;;75,00;169,00;20;N;Espontáneo;Cefálica;No;N;;
+Febrero;28/02/2017;MORT;Staff;2;a;35;41;288;Primípara;Eutócico;vaginal;3700;No;S;Oligoamnios;No;;;74,00;162,00;15;N;No espontáneo;Cefálica;No;N;;
+Febrero;07/02/2017;NHDJ;Staff;5;b;27;40;282;Secundípara;Eutócico;vaginal;3070;;S;Amniorrexis;;;;73,00;165,00;15;;No espontáneo;Cefálica;No;S;;
+Febrero;28/02/2017;VFAY;Staff;1;;27;37;261;Primípara;Espátulas;vaginal;2660;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;65,00;162,00;10;N;Espontáneo;Cefálica;No;N;;
+Febrero;28/02/2017;NHDJ;Staff;3;;33;40;282;Secundípara;Eutócico;vaginal;3090;No;N;;;;;63,00;159,00;12;;Espontáneo;Cefálica;;N;7,44;
+Febrero;22/02/2017;CKWT;Asociado;3;;32;38;268;Secundípara;Eutócico;vaginal;3740;No;N;;No;;;80,00;163,00;19;;Espontáneo;Cefálica;No;N;7,25;
+Febrero;28/02/2017;OVLV;Asociado;5;b;33;38;269;Secundípara;Ventosa;vaginal;3630;Mediolateral Derecha;S;Patología Materna;No;Abreviación del expulsivo;;89,00;168,00;3;S;No espontáneo;Cefálica;No;S;7,34;
+Febrero;05/02/2017;WCYE;Asociado;1;;33;40;280;Primípara;Forceps Kjelland;vaginal;3300;Mediolateral Derecha;N;;;Abreviación del expulsivo;;73,00;158,00;18;;Espontáneo;Cefálica;No;N;;
+Febrero;10/02/2017;STWB;Asociado;5;a;36;38;271;Secundípara;Forceps Kjelland;vaginal;3620;Mediolateral Derecha;N;;;Abreviación del expulsivo;;76,00;162,00;14;;Espontáneo;Cefálica;;S;7,26;
+Febrero;13/02/2017;NHDJ;Staff;5;a;32;39;275;Secundípara;Cesárea;cesarea;3230;No;N;;No;SPBF;;72,00;160,00;14;;Espontáneo;Cefálica;No;S;7,22;
+Febrero;27/02/2017;VFAY;Staff;2;a;37;40;282;Primípara;Eutócico;vaginal;3050;Mediolateral Derecha;S;Hipertensión;No;;;63,00;160,00;10;N;No espontáneo;Cefálica;No;N;;
+Febrero;24/02/2017;AFXV;Staff;1;;33;40;280;Primípara;Forceps Kjelland;vaginal;3140;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;70,00;160,00;20;N;Espontáneo;Cefálica;No;N;7,33;
+Febrero;04/02/2017;XCHJ;Staff;2;a;27;40;284;Primípara;Eutócico;vaginal;3170;Mediolateral Derecha;S;Amniorrexis;No;;;73,00;162,00;13;N;No espontáneo;Cefálica;No;N;;
+Febrero;06/02/2017;IZFO;Staff;3;;39;40;280;Secundípara;Eutócico;vaginal;3050;Media;N;;No;;;78,00;158,00;14;N;Espontáneo;Cefálica;No;N;7,33;
+Febrero;06/02/2017;MORT;Staff;4;a;39;38;271;Secundípara;Eutócico;vaginal;3400;No;S;Otros;No;;;59,20;169,00;13;N;No espontáneo;Cefálica;No;N;7,33;
+Febrero;10/02/2017;MORT;Staff;8;;40;34;240;Primípara;Cesárea;cesarea;2350;;N;;Bicorial;Posición anómala de un gemelo;;72,00;164,00;14;S;Espontáneo;Cefálica;FIV-DO;N;7,32;
+Febrero;05/02/2017;STWB;Asociado;1;;35;38;271;Primípara;Eutócico;vaginal;2800;Mediolateral Derecha;N;;;;;77,00;163,00;15;;Espontáneo;Cefálica;;N;7,37;
+Febrero;20/02/2017;LTLD;Staff;2;c;32;39;278;Primípara;Cesárea;cesarea;3350;;N;;No;Cesárea previa;;92,00;162,00;7;;Espontáneo;Cefálica;;S;7,3;
+Febrero;26/02/2017;IXWR;Staff;1;;29;38;269;Primípara;Cesárea;cesarea;3330;No;N;;No;SPBF;;89,00;168,00;18;N;Espontáneo;Cefálica;No;N;7,32;
+Febrero;22/02/2017;IZFO;Staff;2;a;29;39;273;Primípara;Cesárea;cesarea;2730;;S;Patología Materna;No;Desproporcion pelvifetal;Atonía;68,00;162,00;8;N;No espontáneo;Cefálica;No;N;7,39;
+Febrero;13/02/2017;YCRA;Asociado;4;a;41;39;278;Tercípara;Eutócico;vaginal;3240;;S;Otros;No;Fracaso de inducción;;82,00;167,00;9;N;No espontáneo;Cefálica;No;N;;
+Febrero;10/02/2017;XZKQ;Staff;1;;27;41;287;Primípara;Eutócico;vaginal;3800;No;N;;No;;;80,00;165,00;22;N;Espontáneo;Cefálica;No;N;7,14;
+Febrero;03/02/2017;STWB;Asociado;2;a;41;41;288;Primípara;Cesárea;cesarea;3240;;S;Gestación Prolongada;;;;58,90;150,00;8;;No espontáneo;Cefálica;FIV;N;7,31;
+Febrero;02/02/2017;GWVF;Asociado;2;b;30;40;285;Primípara;Cesárea;cesarea;3520;;N;;;Desproporcion pelvifetal;;96,00;167,00;12;;No espontáneo;Cefálica;No;N;;
+Febrero;14/02/2017;VCYG;Staff;2;a;27;39;279;Primípara;Cesárea;cesarea;3890;;S;Otros;No;Fracaso de inducción;;77,00;159,00;16;N;No espontáneo;Cefálica;No;N;7,34;
+Febrero;19/02/2017;IZFO;Staff;5;a;40;40;284;Secundípara;Ventosa;vaginal;4400;Mediolateral Derecha;N;;No;Abreviación del expulsivo;;99,00;166,00;20;N;Espontáneo;Cefálica;No;S;7,31;
+Febrero;23/02/2017;VCYG;Staff;2;a;26;37;260;Primípara;Eutócico;vaginal;2320;No;S;Retraso crecimiento;;;;63,00;167,00;13;N;No espontáneo;Cefálica;No;N;;
+Febrero;20/02/2017;MEMD;Asociado;3;;36;40;283;Secundípara;Eutócico;vaginal;3410;No;N;;;Abreviación del expulsivo;;69,00;160,00;14;N;Espontáneo;Cefálica;No;N;;
+Febrero;20/02/2017;MORT;Staff;2;a;39;41;288;Primípara;Espátulas;vaginal;3430;Mediolateral Derecha;S;Gestación Prolongada;No;Abreviación del expulsivo;;102,00;165,00;30;N;No espontáneo;Cefálica;No;N;7,32;
+Febrero;02/02/2017;VCYG;Staff;2;a;24;37;260;Primípara;Forceps Kjelland;vaginal;2270;Mediolateral Derecha;S;Retraso crecimiento;No;Distocia de rotación;;67,00;169,00;11;N;No espontáneo;Cefálica;No;N;7,43;
+Febrero;08/02/2017;STWB;Asociado;2;a;36;40;285;Primípara;Cesárea;cesarea;3590;;S;Gestación Prolongada;;Abreviación del expulsivo;;75,00;165,00;9;;No espontáneo;Cefálica;FIV;N;7,32;
+Febrero;19/02/2017;YCRA;Asociado;2;a;41;40;282;Primípara;Cesárea;cesarea;3200;;S;Amniorrexis;No;Fracaso de inducción;;76,00;162,00;18;N;No espontáneo;Cefálica;No;N;;
+Febrero;21/02/2017;OVLV;Asociado;2;b;35;41;287;Primípara;Cesárea;cesarea;3960;;N;;;Otros;;160,00;94,00;17;N;No espontáneo;Cefálica;No;N;;
+Febrero;06/02/2017;HFTQ;Staff;10;;36;35;245;Primípara;Eutócico;vaginal;2600;Mediolateral Derecha;S;Amniorrexis;No;;;77,00;166,00;15;N;No espontáneo;Cefálica;No;N;7,24;
