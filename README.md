@@ -1,2 +1,2 @@
-# preterm
-shiny app
+library(shiny)    
+runGitHub("coldolmen/preterm", "coldolmen") 
